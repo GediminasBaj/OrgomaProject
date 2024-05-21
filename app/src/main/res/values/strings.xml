@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OrgomaProject</string>
+    <string name="client_id">googleCode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="olives">
+        <item>Select</item>
+        <item>Kalamata</item>
+        <item>Halkidiki</item>
+        <item>Amfissa</item>
+        <item>Throuba</item>
+        <item>Manaki</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

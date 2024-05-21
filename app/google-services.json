@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605937185716",
+    "project_id": "farmproject-d821b",
+    "storage_bucket": "farmproject-d821b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605937185716:android:086950d794583a7629b8e1",
+        "android_client_info": {
+          "package_name": "com.learningkotlin.orgomaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkYIG2mK39zoN8tBDncZdl9-MeQ5Qm7p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
